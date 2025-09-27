@@ -2,7 +2,7 @@
 
 An **Augmented Reality (AR) application** designed for **second-grade students** to understand the relationship between **3D objects** and their **2D projections**.
 
-## Note, download the app from gdrive link below because it is larger to be stored in github.
+## Note: download the app from gdrive link below because it is larger to be stored in github.
 
 This project is inspired by the **Government of Tamil Nadu – Grade 2 Mathematics Textbook (Unit: Geometry)**, which introduces children to cubes, cuboids, cones, cylinders, spheres, and their corresponding 2D shapes.
 
